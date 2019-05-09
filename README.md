@@ -9,5 +9,10 @@ Changes not staged for commit:
     changes not staged for commit
         (use "git add <README.md>.." to discard changes)
 
-
+imwaterboi$ git status
+on branch new-branch-2
+changes not staged for commit:
+        (use "git add <README.md>..." to update what will be committed)
+        ("git checkout -- <README.md>.." to discard)
+        
 
